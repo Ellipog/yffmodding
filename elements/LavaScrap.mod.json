@@ -6,7 +6,7 @@
     "texture": "lava_scrap",
     "customModelName": "Normal",
     "name": "Lava Scrap",
-    "rarity": "RARE",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
     },

@@ -6,7 +6,7 @@
     "texture": "lava_ingot",
     "customModelName": "Normal",
     "name": "Lava Ingot",
-    "rarity": "EPIC",
+    "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
     },
