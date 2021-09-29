@@ -1,0 +1,34 @@
+{
+  "group": "temp_name",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "temp_name:lava_scrap"
+    },
+    {
+      "item": "temp_name:lava_scrap"
+    },
+    {
+      "item": "temp_name:lava_scrap"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "temp_name:lava_scrap"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "temp_name:lava_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "temp_name:lava_ingot"
+  },
+  "result": {
+    "item": "temp_name:lava_man_pickaxe"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "temp_name:custom/pickaxe",
+  "textures": {
+    "0": "temp_name:blocks/qwqwwq",
+    "particle": "temp_name:items/lava_pickaxe"
+  }
+}

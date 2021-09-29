@@ -1,0 +1,102 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LavaMan",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_man"
+    },
+    {
+      "name": "LavaManPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_man_pickaxe"
+    },
+    {
+      "name": "LavaScrap",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_scrap"
+    },
+    {
+      "name": "LavaIngot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_ingot"
+    },
+    {
+      "name": "LavaIngotRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_ingot_recipe"
+    },
+    {
+      "name": "LavaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lava_pickaxe_recipe"
+    },
+    {
+      "name": "FireTouch",
+      "type": "enchantment",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_touch"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.temp_name.lava_man_spawn_egg": "Lava Man Spawn Egg",
+      "item.temp_name.lava_man_pickaxe": "Lava Pickaxe",
+      "entity.temp_name.lava_man": "Lava Man",
+      "item.temp_name.lava_ingot": "Lava Ingot",
+      "item.temp_name.lava_scrap": "Lava Scrap",
+      "enchantment.temp_name.fire_touch": "Fire Touch"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "temp_name",
+    "modName": "temp name",
+    "version": "1.0.0",
+    "author": "Ellio, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.tempname",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

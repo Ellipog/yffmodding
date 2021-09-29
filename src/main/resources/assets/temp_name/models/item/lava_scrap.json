@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "temp_name:items/lava_scrap"
+  }
+}
