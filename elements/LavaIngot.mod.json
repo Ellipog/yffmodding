@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "lava_ingot",
     "customModelName": "Normal",
-    "name": "Lava Ingot",
+    "name": "Molten Ingot",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"

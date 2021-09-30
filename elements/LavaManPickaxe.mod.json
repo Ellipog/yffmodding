@@ -5,7 +5,7 @@
     "renderType": 1,
     "texture": "lava_pickaxe",
     "customModelName": "pickaxe:default",
-    "name": "Lava Pickaxe",
+    "name": "Molten Pickaxe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"

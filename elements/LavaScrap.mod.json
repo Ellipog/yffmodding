@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "lava_scrap",
     "customModelName": "Normal",
-    "name": "Lava Scrap",
+    "name": "Molten Scrap",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "MISC"
